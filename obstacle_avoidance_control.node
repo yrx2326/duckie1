@@ -5,6 +5,7 @@ import os
 import rospkg
 import rospy
 import yaml
+from duckietown_msgs.msg
 
 class VehicleAvoidanceControlNode(object):
 
