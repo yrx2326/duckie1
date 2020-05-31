@@ -1,3 +1,3 @@
 # duckie1
 
-First day in  Github.
+Duckiebot controller synthesis.
